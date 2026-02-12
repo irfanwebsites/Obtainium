@@ -36,6 +36,7 @@ Currently supported App sources:
   - [CoolApk](https://coolapk.com/)
   - [RockMods](https://rockmods.net/)
   - [LiteAPKs](https://liteapks.com/)
+  - [Heymods](https://heymods.com.co/)
   - Jenkins Jobs
   - [APKMirror](https://apkmirror.com/) (Track-Only)
 - Other - App-Specific:
